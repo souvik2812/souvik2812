@@ -1,6 +1,6 @@
 [![An image of @souvik2812's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik2812)](https://holopin.io/@souvik2812)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik2812&show_icons=true&locale=en&layout=compact" alt="souvik2812" /></p>
+
 <!---
 souvik2812/souvik2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
+
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
@@ -57,3 +58,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2812&" alt="souvik2812" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik2812&show_icons=true&locale=en&layout=compact" alt="souvik2812" /></p>
