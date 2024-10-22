@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/souvik2812/github-profile-trophy)
+
+
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
