@@ -5,6 +5,9 @@
 souvik2812/souvik2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+
+<a href="https://www.youtube.com/c/learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
+
 - 👋 Hi, I’m @souvik2812
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -50,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/souvik-dey-75892b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-dey-75892b260" height="30" width="40" /></a>
 <a href="https://instagram.com/souvik_dey_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik_dey_28/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deysouvik2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deysouvik2812" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,7 +64,5 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik2812&show_icons=true&locale=en" alt="souvik2812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2812&" alt="souvik2812" /></p>
-
-<a href="https://www.youtube.com/c/learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik2812&show_icons=true&locale=en&layout=compact" alt="souvik2812" /></p>
