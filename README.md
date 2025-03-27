@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/souvik-dey-75892b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-dey-75892b260" height="30" width="40" /></a>
 <a href="https://instagram.com/souvik_dey_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik_dey_28/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deysouvik2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deysouvik2812" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
