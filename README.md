@@ -1,32 +1,18 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 1. HEADER BANNER (UPGRADED: Self-Hosted Animated SVG, 100% Uptime & Fast)   -->
+<!-- 1. ANIMATED HEADER WAVE BANNER                                            -->
 <!-- ========================================================================= -->
-<a href="https://github.com/souvik2812">
-  <img src="https://raw.githubusercontent.com/souvik2812/souvik2812/main/assets/header.svg" width="100%" alt="Souvik Dey Security Header" />
-</a>
-
-<!--
-[NOTE: The external capsule-render.vercel.app service is commented out below due to frequent timeouts. Uncomment if you prefer the external version:]
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Cybersecurity%20Enthusiast%20%7C%20Full-Stack%20%26%20Systems%20Developer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
--->
 
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 2. TYPING ANIMATION (UPGRADED: Self-Hosted Animated Ticker SVG, Permanent) -->
+<!-- 2. TYPING ANIMATION (Self-Hosted Animated Ticker SVG, 100% Reliable)      -->
 <!-- ========================================================================= -->
 <a href="https://github.com/souvik2812">
   <img src="https://raw.githubusercontent.com/souvik2812/souvik2812/main/assets/typing.svg" width="100%" alt="Typing Animation" />
 </a>
-
-<!--
-[NOTE: The external readme-typing-svg service is commented out below. Uncomment if desired:]
-<a href="https://github.com/souvik2812">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=%F0%9F%94%90+Cybersecurity+%26+Zero-Trust+Explorer;%F0%9F%92%BB+Full-Stack+Web+%26+Scripting+Developer;%F0%9F%9B%A1%EF%B8%8F+Threat+Monitoring+%26+Cloud+Security;%E2%9A%A1+Automating+Real-World+Pipelines;%F0%9F%8C%8E+Building+Resilient+Open+Source+Tools" alt="Typing Animation" />
-</a>
--->
 
 <br/><br/>
 
@@ -283,7 +269,9 @@ Got a project idea, a security discussion, or want to collaborate? Reach out any
 
 <br/><br/>
 
-<!-- Animated Footer Divider -->
-<img src="https://raw.githubusercontent.com/souvik2812/souvik2812/main/assets/header.svg" height="40" width="100%" style="opacity: 0.4;" alt="Footer Divider" />
+<!-- ========================================================================= -->
+<!-- ANIMATED FOOTER WAVE BANNER                                               -->
+<!-- ========================================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
