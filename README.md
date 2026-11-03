@@ -1,23 +1,44 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Cybersecurity%20Enthusiast%20%7C%20Full-Stack%20%26%20Systems%20Developer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
+<!-- ========================================================================= -->
+<!-- 1. HEADER BANNER (UPGRADED: Self-Hosted Animated SVG, 100% Uptime & Fast)   -->
+<!-- ========================================================================= -->
+<a href="https://github.com/souvik2812">
+  <img src="https://raw.githubusercontent.com/souvik2812/souvik2812/main/assets/header.svg" width="100%" alt="Souvik Dey Security Header" />
+</a>
 
-<!-- Dynamic Typing SVG Animation -->
+<!--
+[NOTE: The external capsule-render.vercel.app service is commented out below due to frequent timeouts. Uncomment if you prefer the external version:]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Cybersecurity%20Enthusiast%20%7C%20Full-Stack%20%26%20Systems%20Developer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
+-->
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 2. TYPING ANIMATION (UPGRADED: Self-Hosted Animated Ticker SVG, Permanent) -->
+<!-- ========================================================================= -->
+<a href="https://github.com/souvik2812">
+  <img src="https://raw.githubusercontent.com/souvik2812/souvik2812/main/assets/typing.svg" width="100%" alt="Typing Animation" />
+</a>
+
+<!--
+[NOTE: The external readme-typing-svg service is commented out below. Uncomment if desired:]
 <a href="https://github.com/souvik2812">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=%F0%9F%94%90+Cybersecurity+%26+Zero-Trust+Explorer;%F0%9F%92%BB+Full-Stack+Web+%26+Scripting+Developer;%F0%9F%9B%A1%EF%B8%8F+Threat+Monitoring+%26+Cloud+Security;%E2%9A%A1+Automating+Real-World+Pipelines;%F0%9F%8C%8E+Building+Resilient+Open+Source+Tools" alt="Typing Animation" />
 </a>
+-->
 
 <br/><br/>
 
-<!-- Holopin & Profile Stats Badges -->
+<!-- ========================================================================= -->
+<!-- 3. VERIFIED BADGES & SOCIAL LINKS (100% Reliable via Shields.io & Holopin) -->
+<!-- ========================================================================= -->
 <a href="https://holopin.io/@souvik2812" target="_blank">
-  <img src="https://holopin.me/souvik2812" alt="Holopin Badges" height="110" />
+  <img src="https://holopin.me/souvik2812" alt="Souvik Dey Holopin Badges" height="110" />
 </a>
 
 <br/><br/>
 
-<!-- Quick Social Badges -->
 [![Email Badge](https://img.shields.io/badge/Email-deysouvik023%40gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deysouvik023@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-dey-75892b260)
 [![YouTube](https://img.shields.io/badge/YouTube-Learn%20Hacking%20Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnhackingcodes)
@@ -81,22 +102,32 @@ Philosophy: "Security is a continuous engineering practice, not a destination."
 
 ---
 
-### 🐍 Contribution Activity & Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-### 📊 Real-Time GitHub Analytics
+<!-- ========================================================================= -->
+<!-- 4. GITHUB ANALYTICS & STATS (UPGRADED: Reliable Metrics Grid)               -->
+<!-- ========================================================================= -->
+### 📊 GitHub Analytics & Metrics
 
 <div align="center">
 
+<!-- Reliable Dynamic GitHub Metrics Grid (Shields.io never 503s or limits) -->
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/souvik2812?label=Followers&style=for-the-badge&color=00FF9D&logo=github&labelColor=181717" alt="Followers" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/souvik2812?label=Total%20Stars&style=for-the-badge&color=yellow&logo=apachespark&labelColor=181717" alt="Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Security-Zero--Trust%20Ready-00E5FF?style=for-the-badge&logo=shield&labelColor=181717" alt="Security" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!--
+[NOTE: The external Vercel services for github-readme-stats, streak-stats, and top-langs are currently returning 503 Server Unavailable errors on public instances. Uncomment below if you host your own Vercel instance:]
 <table border="0">
   <tr>
     <td align="center" width="50%">
@@ -112,20 +143,55 @@ Philosophy: "Security is a continuous engineering practice, not a destination."
     </td>
   </tr>
 </table>
+-->
 
-<br/>
-
-<!-- Animated Activity Graph -->
+<!--
+[NOTE: The external github-readme-activity-graph service is currently offline with 402 Payment Required from Vercel. Uncomment if it becomes active:]
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik2812&theme=tokyo-night&bg_color=0d1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=false&border_radius=10" width="95%" alt="Souvik's Activity Graph" />
+-->
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ========================================================================= -->
+<!-- 5. ACHIEVEMENTS & BADGES (UPGRADED: Verified Developer Badges)              -->
+<!-- ========================================================================= -->
+### 🏆 Achievements & Verified Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souvik2812&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="95%" alt="GitHub Trophies" />
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Achievement-Pull%20Shark-00FF9D?style=for-the-badge&logo=github&logoColor=black" alt="Pull Shark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Achievement-Quickdraw-yellow?style=for-the-badge&logo=github&logoColor=black" alt="Quickdraw" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Holopin-Verified%20Contributor-00b4d8?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Security-Enthusiast-00E5FF?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Security" />
+</p>
+
+<!--
+[NOTE: The external github-profile-trophy service is currently returning 402 Payment Required from Vercel. Uncomment if the service restores:]
+<img src="https://github-profile-trophy.vercel.app/?username=souvik2812&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="95%" alt="GitHub Trophies" />
+-->
+
+</div>
+
+---
+
+<!-- ========================================================================= -->
+<!-- 6. CONTRIBUTION SNAKE ANIMATION                                          -->
+<!-- ========================================================================= -->
+### 🐍 Contribution Activity & Snake Animation
+
+<div align="center">
+  <p><i>The contribution snake is generated automatically by <a href="./.github/workflows/snake.yml">GitHub Actions</a>.</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
@@ -164,7 +230,7 @@ Got a project idea, a security discussion, or want to collaborate? Reach out any
 
 <br/><br/>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- Animated Footer Divider -->
+<img src="https://raw.githubusercontent.com/souvik2812/souvik2812/main/assets/header.svg" height="40" width="100%" style="opacity: 0.4;" alt="Footer Divider" />
 
 </div>
