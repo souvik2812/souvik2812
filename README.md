@@ -109,7 +109,6 @@ Philosophy: "Security is a continuous engineering practice, not a destination."
 
 <div align="center">
 
-<!-- Reliable Dynamic GitHub Metrics Grid (Shields.io never 503s or limits) -->
 <table border="0">
   <tr>
     <td align="center">
@@ -181,7 +180,75 @@ Philosophy: "Security is a continuous engineering practice, not a destination."
 ---
 
 <!-- ========================================================================= -->
-<!-- 6. CONTRIBUTION SNAKE ANIMATION                                          -->
+<!-- 6. FLAGSHIP & MENTOR PROJECTS SHOWCASE                                     -->
+<!-- ========================================================================= -->
+### 🛡️ Flagship Cybersecurity & Systems Projects
+
+Highlighted production and security-centric engineering projects:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 <a href="https://github.com/souvik2812/Zero-Trust-Security-Engineering">Zero-Trust Security Architecture</a></h4>
+      <p><b>Domain:</b> Enterprise Defense, Identity Access (IAM), Micro-Segmentation</p>
+      <ul>
+        <li>Practical implementations of Zero-Trust Network Architecture (ZTNA).</li>
+        <li>Continuous authentication principles, least privilege enforcement, and defense-in-depth patterns.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik2812/Zero-Trust-Security-Engineering">
+          <img src="https://img.shields.io/badge/Explore-Architecture%20Repo-00FF9D?style=flat-square&logo=github&logoColor=black" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 <a href="https://github.com/souvik2812/worldmonitor">worldmonitor: Real-Time Intelligence Radar</a></h4>
+      <p><b>Domain:</b> OSINT, Global Telemetry, Threat Monitoring</p>
+      <ul>
+        <li>Real-time global intelligence dashboard aggregating open-source threat data.</li>
+        <li>Live geopolitical tracking, infrastructure monitoring, and automated event aggregation.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik2812/worldmonitor">
+          <img src="https://img.shields.io/badge/Explore-Live%20Telemetry-00E5FF?style=flat-square&logo=github&logoColor=black" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖼️ <a href="https://github.com/souvik2812/Steganography_Project">Cryptographic Image Steganography</a></h4>
+      <p><b>Domain:</b> Cryptography, Payload Obfuscation, Image Processing</p>
+      <ul>
+        <li>Hides encrypted binary payloads inside digital image carrier files using LSB techniques.</li>
+        <li>Includes integrity verification, secure extraction utilities, and deployment modules (<a href="https://github.com/souvik2812/Stegnography-app">Stegnography-app</a>).</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik2812/Steganography_Project">
+          <img src="https://img.shields.io/badge/Explore-Steganography%20Code-00FF9D?style=flat-square&logo=github&logoColor=black" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ <a href="https://github.com/souvik2812/oci-cloud-architect-security">Cloud Security &amp; Bucket Auditor</a></h4>
+      <p><b>Domain:</b> Cloud Infrastructure (OCI/AWS), Auditing, Compliance</p>
+      <ul>
+        <li>Automated inspection of public cloud storage buckets for misconfigurations and data leaks.</li>
+        <li>Security baseline validation, IAM role checking, and audit reporting utilities.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik2812/oci-cloud-architect-security">
+          <img src="https://img.shields.io/badge/Explore-Cloud%20Auditing-00E5FF?style=flat-square&logo=github&logoColor=black" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================================= -->
+<!-- 7. CONTRIBUTION SNAKE ANIMATION                                          -->
 <!-- ========================================================================= -->
 ### 🐍 Contribution Activity & Snake Animation
 
@@ -193,20 +260,6 @@ Philosophy: "Security is a continuous engineering practice, not a destination."
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
-
----
-
-### 🚀 Featured Highlights & Projects
-
-| Project | Live Demo / Repository | Key Tech |
-| :--- | :--- | :--- |
-| 🛡️ **Zero-Trust-Security-Engineering** | [View Repo](https://github.com/souvik2812/Zero-Trust-Security-Engineering) | Zero Trust, Cloud Security, IAM |
-| 🌍 **worldmonitor** | [View Dashboard](https://github.com/souvik2812/worldmonitor) | Telemetry, Threat Intelligence, OSINT |
-| ⚙️ **cd-r-.dat-to-.mp4** | [View Tool](https://github.com/souvik2812/cd-r-.dat-to-.mp4) | PowerShell, Media Streams, Automation |
-| 🛍️ **E-Commerce Web Application** | [Live Demo](https://souvik-dey-28.github.io/ecommerce-website/) | React, Web Architecture, APIs |
-| 🚌 **Online Bus Ticket Booking** | [Live Demo](https://souvik-dey-28.github.io/online-bus-ticket-booking2/) | JavaScript, HTML5/CSS3, Booking Engine |
-| 🌤️ **Weather Details App** | [Live Demo](https://souvik-dey-28.github.io/weather-details/) | REST APIs, Asynchronous JS, Weather API |
-| 💼 **Interactive Portfolio** | [Live Demo](https://souvik-dey-28.github.io/personal-portfolio-souvikdey/) | Responsive Design, CSS Animations |
 
 ---
 
