@@ -1,68 +1,170 @@
-[![An image of @souvik2812's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvik2812)](https://holopin.io/@souvik2812)
+<div align="center">
 
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Cybersecurity%20Enthusiast%20%7C%20Full-Stack%20%26%20Systems%20Developer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
 
-<!---
-souvik2812/souvik2812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!-- Dynamic Typing SVG Animation -->
+<a href="https://github.com/souvik2812">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=%F0%9F%94%90+Cybersecurity+%26+Zero-Trust+Explorer;%F0%9F%92%BB+Full-Stack+Web+%26+Scripting+Developer;%F0%9F%9B%A1%EF%B8%8F+Threat+Monitoring+%26+Cloud+Security;%E2%9A%A1+Automating+Real-World+Pipelines;%F0%9F%8C%8E+Building+Resilient+Open+Source+Tools" alt="Typing Animation" />
+</a>
 
+<br/><br/>
 
-<a href="https://www.youtube.com/c/learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
+<!-- Holopin & Profile Stats Badges -->
+<a href="https://holopin.io/@souvik2812" target="_blank">
+  <img src="https://holopin.me/souvik2812" alt="Holopin Badges" height="110" />
+</a>
 
-- 👋 Hi, I’m @souvik2812
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+<br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=souvik2812)](https://github.com/souvik2812/github-profile-trophy)
+<!-- Quick Social Badges -->
+[![Email Badge](https://img.shields.io/badge/Email-deysouvik023%40gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deysouvik023@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-dey-75892b260)
+[![YouTube](https://img.shields.io/badge/YouTube-Learn%20Hacking%20Codes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnhackingcodes)
+[![Twitter / X](https://img.shields.io/badge/X-Follow%20%40souvikd07705410-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SouvikDey28)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-deysouvik2812-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deysouvik2812)
+[![Instagram](https://img.shields.io/badge/Instagram-souvik__dey__28-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/souvik_dey_28/)
+[![Resume](https://img.shields.io/badge/Resume-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk)
+[![Profile Views](https://komarev.com/ghpvc/?username=souvik2812&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/souvik2812)
 
+</div>
 
-<h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik2812&label=Profile%20views&color=0e75b6&style=flat" alt="souvik2812" /> </p>
+### 🧑‍💻 Terminal Session
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik2812" alt="souvik2812" /></a> </p>
+```bash
+souvik@sec-ops:~$ neofetch
+```
 
-<p align="left"> <a href="https://twitter.com/souvikd07705410" target="blank"><img src="https://img.shields.io/twitter/follow/souvikd07705410?logo=twitter&style=for-the-badge" alt="souvikd07705410" /></a> </p>
+```yaml
+User: Souvik Dey (@souvik2812)
+Focus: Cybersecurity, Threat Intelligence, Zero-Trust Architecture & Systems Automation
+Email: deysouvik023@gmail.com
+Education: Engineering & Computer Science
+Pronouns: He / Him
+Fun Fact: "I fear dogs 🐶, absolutely love cats 🐱, and believe in working smart ⚡"
+Philosophy: "Security is a continuous engineering practice, not a destination."
+```
 
-- 🔭 I’m currently working on [ECOMMERCE WEBSITE](https://souvik-dey-28.github.io/ecommerce-website/)
+- 🛡️ **Cybersecurity**: Researching Zero Trust architectures, perimeter defense, and cloud security frameworks.
+- ⚡ **Automation & Scripting**: Building robust PowerShell and Python tools to convert data and automate repetitive workflows.
+- 🌐 **Intelligence & Telemetry**: Exploring real-time dashboards, threat feeds, and open data systems ([`worldmonitor`](https://github.com/souvik2812/worldmonitor)).
+- 🤝 **Collaboration**: Actively seeking open-source contributions and security research opportunities.
 
-- 🌱 I’m currently learning **FONTEND AND BACKEND**
+---
 
-- 👯 I’m looking to collaborate on [ONLINE BUS TICKET BOOKING](https://souvik-dey-28.github.io/online-bus-ticket-booking2/)
+### 🛠️ Arsenal & Technologies
 
-- 🤝 I’m looking for help with [weather information](https://souvik-dey-28.github.io/weather-details/)
+<div align="center">
 
-- 👨‍💻 All of my projects are available at GITHUB [https://souvik-dey-28.github.io/personal-portfolio-souvikdey/](https://souvik-dey-28.github.io/personal-portfolio-souvikdey/)
+#### 💻 Languages & Scripting
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,powershell,bash,c,cpp,js,ts,html,css&theme=dark" alt="Languages" />
+</a>
 
-- 📝 I regularly write articles on [https://souvik-dey-28.github.io/profile-card/](https://souvik-dey-28.github.io/profile-card/)
+<br/>
 
-- 💬 Ask me about **HTML, CSS, JS, C, C++, KOTLIN, PYTHON,**
+#### 🛡️ Security, DevOps & Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,githubactions,regex,postman,cloudflare&theme=dark" alt="DevOps and Security" />
+</a>
 
-- 📫 How to reach me **deysouvik023@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk](https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk)
+#### 🌐 Web Frameworks & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,sqlite,mysql,tailwind&theme=dark" alt="Web & Databases" />
+</a>
 
-- ⚡ Fun fact **I THINK I AM INTELIGENT BUT LITTLE BIT LAZY😅😅😁👍😉🤞**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/souvikd07705410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvikd07705410" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souvik-dey-75892b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-dey-75892b260" height="30" width="40" /></a>
-<a href="https://instagram.com/souvik_dey_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik_dey_28/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/deysouvik2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deysouvik2812" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🐍 Contribution Activity & Snake Animation
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik2812&show_icons=true&locale=en&layout=compact" alt="souvik2812" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/souvik2812/souvik2812/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik2812&show_icons=true&locale=en" alt="souvik2812" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik2812&" alt="souvik2812" /></p>
+### 📊 Real-Time GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik2812&show_icons=true&locale=en&layout=compact" alt="souvik2812" /></p>
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=souvik2812&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00FF9D&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&bg_color=0d1117" width="100%" alt="Souvik's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=souvik2812&theme=tokyonight&hide_border=false&border_radius=10&border=00FF9D&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D" width="100%" alt="Souvik's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik2812&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=00FF9D&title_color=00FF9D&text_color=FFFFFF&bg_color=0d1117" width="80%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik2812&theme=tokyo-night&bg_color=0d1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=false&border_radius=10" width="95%" alt="Souvik's Activity Graph" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souvik2812&theme=monokai&no-frame=false&no-bg=false&margin-w=4" width="95%" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🚀 Featured Highlights & Projects
+
+| Project | Live Demo / Repository | Key Tech |
+| :--- | :--- | :--- |
+| 🛡️ **Zero-Trust-Security-Engineering** | [View Repo](https://github.com/souvik2812/Zero-Trust-Security-Engineering) | Zero Trust, Cloud Security, IAM |
+| 🌍 **worldmonitor** | [View Dashboard](https://github.com/souvik2812/worldmonitor) | Telemetry, Threat Intelligence, OSINT |
+| ⚙️ **cd-r-.dat-to-.mp4** | [View Tool](https://github.com/souvik2812/cd-r-.dat-to-.mp4) | PowerShell, Media Streams, Automation |
+| 🛍️ **E-Commerce Web Application** | [Live Demo](https://souvik-dey-28.github.io/ecommerce-website/) | React, Web Architecture, APIs |
+| 🚌 **Online Bus Ticket Booking** | [Live Demo](https://souvik-dey-28.github.io/online-bus-ticket-booking2/) | JavaScript, HTML5/CSS3, Booking Engine |
+| 🌤️ **Weather Details App** | [Live Demo](https://souvik-dey-28.github.io/weather-details/) | REST APIs, Asynchronous JS, Weather API |
+| 💼 **Interactive Portfolio** | [Live Demo](https://souvik-dey-28.github.io/personal-portfolio-souvikdey/) | Responsive Design, CSS Animations |
+
+---
+
+### 💬 Connect & Inquiries
+
+<div align="center">
+
+Got a project idea, a security discussion, or want to collaborate? Reach out anytime!
+
+<br/>
+
+<a href="mailto:deysouvik023@gmail.com">
+  <img src="https://img.shields.io/badge/Direct%20Email-deysouvik023%40gmail.com-00FF9D?style=for-the-badge&logo=gmail&logoColor=000000" alt="Direct Email" />
+</a>
+<a href="https://linkedin.com/in/souvik-dey-75892b260">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/souvik2812">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+
+<br/><br/>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
